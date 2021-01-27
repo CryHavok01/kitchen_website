@@ -111,7 +111,7 @@ while (array_key_exists($ingName, $_POST)){
 <div class="links">
     <button type="button" id="nav_but">Navigation</button>
     <div class="nav_bar">
-        <button type="button" id="home" onclick="window.location.href='index.php';">Home</button>
+        <button type="button" id="home" onclick="window.location.href='index.html';">Home</button>
         <button type="button" id="check-spices" onclick="window.location.href='checkspice.php';">Check Spices</button>
         <button type="button" id="add-spice" onclick="window.location.href='addspice.php';">Add Spice</button>
         <button type="button" id="check-recipe" onclick="window.location.href='checkrecipe.php';">Look up Recipes</button>
