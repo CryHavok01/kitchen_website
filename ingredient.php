@@ -117,7 +117,7 @@ echo "We have " . ($row['spice_quant'] + 0) . " " . $row['spice_units'] . " of "
 <div class="links">
     <button type="button" id="nav_but">Navigation</button>
     <div class="nav_bar">
-        <button type="button" id="home" onclick="window.location.href='index.php';">Home</button>
+        <button type="button" id="home" onclick="window.location.href='index.htmlr';">Home</button>
         <button type="button" id="check-spices" onclick="window.location.href='checkspice.php';">Check Spices</button>
         <button type="button" id="add-spice" onclick="window.location.href='addspice.php';">Add Spice</button>
         <button type="button" id="check-recipe" onclick="window.location.href='checkrecipe.php';">Look up Recipes</button>
