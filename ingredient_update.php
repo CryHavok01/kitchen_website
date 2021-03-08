@@ -43,5 +43,5 @@
     };
     $stmt->execute();
     $stmt->close();
-    header("location: index.php");
+    header("location: index.html");
     };
