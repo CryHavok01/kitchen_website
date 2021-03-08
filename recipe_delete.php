@@ -15,5 +15,5 @@ $stmt->bind_param("i", $idNum);
 $idNum = $_POST['recipe_id'];
 $stmt->execute();
 $stmt->close();
-header("location: index.php");
+header("location: index.html");
 ?>
